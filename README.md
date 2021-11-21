@@ -1,1 +1,1 @@
-# kaiguanjingling
+# 【涂鸦智能家居改造】蓝牙低功耗-开关精灵(半SOC方案，SOC方案新用法)
